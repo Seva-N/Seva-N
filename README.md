@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Seva N, Lord of Three Comps
-- 👀 I’m interested in Physics, AstroPhysics, Astronomy and Python
+- 👀 I’m interested Physics, AstroPhysics, Astronomy and Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on company "Seva N 3CompaCorporation Studio"
 - 📫 How to reach me ...
